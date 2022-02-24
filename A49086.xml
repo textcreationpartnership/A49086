@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Full and true account of a bloody and dismal fight betwixt the English Protestants, and the French and Irish papists being an impartial relation, of a great victory obtained by Duke Scomberg's forces, over a party of King James's army in Ireland, since the joyful news of the Kings coming into this nation.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49086</idno>
+            <idno type="STC">Wing L28A</idno>
+            <idno type="STC">ESTC R39324</idno>
+            <idno type="EEBO-CITATION">18368167</idno>
+            <idno type="OCLC">ocm 18368167</idno>
+            <idno type="VID">107397</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49086)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107397)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1637:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Full and true account of a bloody and dismal fight betwixt the English Protestants, and the French and Irish papists being an impartial relation, of a great victory obtained by Duke Scomberg's forces, over a party of King James's army in Ireland, since the joyful news of the Kings coming into this nation.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Pardoe ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon; date of publication suggested by Wing.</note>
+                  <note>"Licens'd and entred according to order."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Ireland --  History --  War of 1689-1691.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:107397:1" rendition="simple:additions"/>
+            <head>A Full and True Account of a Bloody and Diſmal Fight Betwixt the Engliſh Proteſtants, AND THE French and Iriſh Papiſts: BEING AN Impartial Relation, OF A Great VICTORY Obtained By Duke Scomberg's Forces, Over a Party of King James's Army IN IRELAND, Since the Joyful News of the Kings coming into this <hi>Nation.</hi>
+            </head>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Licens'd and Entred according to Order.</p>
+               </body>
+            </floatingText>
+            <p>PArt of our Forces lying near to <hi>Charlemont,</hi> under the Command of Li<g ref="char:EOLhyphen"/>eutenant Colonel <hi>Frogmorton</hi> receiving Information of a Conſiderable Number of Cattle, amounting to about Two Thouſand Cows, and a<g ref="char:EOLhyphen"/>bout double the Numbre of Sheep and Garoons, we reſolved to ſend out a Party of ſix Hundred Horſe, and eight Hundred Foot, which on the Second of this Inſtant, we accordingly did, amongſt which Party I had the Honour to Command; but the Enemy by ſome means having diſcover'd our deſignſe, nt out a Party (as nigh as we can gueſs) of Eighr Hundred Horſe, and ſeven Hundred Foot, under the Command of Collonel <hi>Macharty,</hi> to prevent us Executing of our Deſign. We Marched on till we came with<g ref="char:EOLhyphen"/>in three Miles of the Paſtures where the Cattle lay, not knowing that the
+<pb facs="tcp:107397:2"/> Enemy was ſenſible of our Intention, we now being ſo nigh, thought it con<g ref="char:EOLhyphen"/>venient to reduce our Men into as good Order as poſſible, to receive any accidential oppoſition that might happen. We had not Marched in this careful poſture above a Mile further, but by our Scouts, diſcover'd that the Enemy was Ambuſcaded in a Wood oppoſite to a Bogg, through which Paſs we were Oblig'd to March: But having a pre-knowledg of it, we be<g ref="char:EOLhyphen"/>gan to conſult which was the moſt proper and ſecure way to Accoſt them; at laſt by the Reſolution of Lieutenant Collonel <hi>Frogmorton,</hi> 'twas eonluded, we ſhould draw up our Forces to the Wood-ſide, which was of a conſidera<g ref="char:EOLhyphen"/>ble large Entrance, and after one Volley break in upon them: To pro<g ref="char:EOLhyphen"/>ceed to which, Orders was given through all our Party. The <hi>Iriſh</hi> all this while lay very ſilent, till at laſt we proceeded and gave them a very warm Salutation: In Anſwer to which, they at firſt made a very vigo<g ref="char:EOLhyphen"/>rous Repulſe, which was hotly diſputed on both ſides for about an hour; till at laſt ſome part of the <hi>Iriſh</hi> began to fly, which gave freſh Cou<g ref="char:EOLhyphen"/>rage to our <hi>Engliſh</hi> Party, who maintained their Onſet with ſuch Vigour, that the Cowardly Natures of the <hi>Iriſh</hi> could but for a ſhort time endure it; that at laſt they betook themſelves to a Bogg which lay behind the Wood; where we could not with any ſafety Purſue them, ſo that a con<g ref="char:EOLhyphen"/>ſiderable part made their Eſcape that way, that in an hour and an halfs time they were throughly Defeated, with the loſs on their Side of about Three Hundred Slain, beſides a Hundred and Sixty Four taken Priſoners. The loſs on our ſide was notabove Twenty Five Killed, and Fourteen Wounded; which did not ſo Diſable us, but we reſolv'd to Execnte our Deſign, and if poſſible ſecure the Cattle: In order to which, we made a Detachment of Horſe out of our Party, conſiſting of Two Hun<g ref="char:EOLhyphen"/>dred, and ſent them with our Priſoners and Wounded Men back to <hi>Clomiſh,</hi> whilſt we Marched forward to ſeiz the Cattle which lay about a Mile further, which we did, and brought back about Fifteen Hun<g ref="char:EOLhyphen"/>dred Cows, with an Anſwerable Number of Sheep and Garoons. With this Succeſs we ended that preſent Action, the Account of which I knew you would Embrace with great ſatisfaction.</p>
+            <p>The thoughts of his Majeſties coming over amongſt us, greatly Diſheartens the <hi>Iriſh</hi> Army, inſomuch, that ſince the News is ſpread a<g ref="char:EOLhyphen"/>mongſt them, they Deſert King <hi>James</hi> dayly in great numbers, to his great Diſincouragement.</p>
+            <p>SIR,</p>
+            <p>
+               <hi>Having Finiſhed my Account of what I think the moſt remar<g ref="char:EOLhyphen"/>kable and Worthy of your View, I will not Tire you with any Prolix <g ref="char:V">Ʋ</g>ncertainties, but aſſure you, if I meet with any thingthat may deſerve your Trouble of Peruſing, you ſhall not fail of a faith<g ref="char:EOLhyphen"/>ful </hi> Relation <hi>from,</hi>
+            </p>
+            <closer>
+               <signed>Your Obliged Friend, <hi>J. L.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Richard Pardoe,</hi> near the <hi>May-pole</hi> in the <hi>Strand.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
